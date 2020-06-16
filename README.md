@@ -2,11 +2,12 @@
 SPA with rest api, CRUD.
 
 # CRUD
-..* Create
-..* Fetch all
-..* Fetch one
-..* Edit (Patch)
-..* Delete
+
+* Create
+* Fetch all
+* Fetch one
+* Edit (Patch)
+* Delete
 
 # Redux
 
