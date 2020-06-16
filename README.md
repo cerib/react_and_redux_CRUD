@@ -1,13 +1,13 @@
 # react_and_redux_CRUD
 SPA with rest api, CRUD.
 
-#CRUD
-Create
-Fetch all
-Fetch one
-Edit (Patch)
-Delete
+# CRUD
+..* Create
+..* Fetch all
+..* Fetch one
+..* Edit (Patch)
+..* Delete
 
-#Redux
+# Redux
 
-#Browser
+# Browser Router
